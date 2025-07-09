@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fidoauthapp",
+    "sha256_cert_fingerprints": [
+      "B4:B5:00:D4:ED:EF:40:F3:90:F1:0E:B9:9D:09:4F:5A:38:0D:BB:98:02:92:09:B7:FB:1E:52:08:B8:8C:59:C3"
+    ]
+  }
+}]
